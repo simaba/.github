@@ -24,7 +24,7 @@ Please **do not** use Issues for general questions — use Discussions instead.
 ### LinkedIn
 
 For professional inquiries or consulting questions, connect on LinkedIn:
-[linkedin.com/in/simabagheri](https://www.linkedin.com/in/simabagheri)
+[linkedin.com/in/simaba/](https://www.linkedin.com/in/simaba/)
 
 ## Common Questions
 
