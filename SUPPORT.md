@@ -10,7 +10,7 @@ For questions about:
 - Interpreting risk taxonomy categories for specific use cases
 - General AI governance strategy for regulated industries
 
-👉 [Open a Discussion](https://github.com/simaba/enterprise-ai-governance-playbook/discussions)
+👉 [Open a Discussion](https://github.com/simaba/governance-playbook/discussions)
 
 ### GitHub Issues
 
